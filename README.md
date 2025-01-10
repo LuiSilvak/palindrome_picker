@@ -29,9 +29,10 @@ python verificar_palindromo.py
 
 ## Exemplo de Execução
 ```bash
-Entrada:
+=== Verificador de Palíndromo === 
 
 Digite uma palavra ou frase: A sacada da casa
+
 
 Saída:
 
